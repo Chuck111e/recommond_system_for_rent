@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+artifacts/
+artifacts-check/
+data/*.csv
+*.joblib
+*.pkl
+*.egg-info/
